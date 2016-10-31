@@ -33,5 +33,6 @@ if __name__ == '__main__':
     stream.filter(track=["#debate","#debate2016","@hillaryclinton","@realdonaldtrump"])
 
 
-
+# to save file the data, simply use 'open' command
+# or just run 'python 3rdDebateStreamer.py' on the command terminal (for windows). Mac/Linus might be different
 
